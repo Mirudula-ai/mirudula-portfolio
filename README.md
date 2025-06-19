@@ -11,7 +11,7 @@ C++ PROJETS:
 - Age Calculator
 - Fuel Quantity Checker
 
-  Python PROJETS:
+PYTHON PROJETS:
 - Data Type Finder
 - String Sorting
 - Age Calculator
